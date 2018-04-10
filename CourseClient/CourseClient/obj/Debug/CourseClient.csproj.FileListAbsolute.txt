@@ -1,0 +1,14 @@
+C:\Users\Adm\source\repos\CourseClient\CourseClient\obj\Debug\MainWindow.g.cs
+C:\Users\Adm\source\repos\CourseClient\CourseClient\obj\Debug\App.g.cs
+C:\Users\Adm\source\repos\CourseClient\CourseClient\obj\Debug\CourseClient_MarkupCompile.cache
+C:\Users\Adm\source\repos\CourseClient\CourseClient\obj\Debug\CourseClient_MarkupCompile.lref
+C:\Users\Adm\source\repos\CourseClient\CourseClient\bin\Debug\CourseClient.exe.config
+C:\Users\Adm\source\repos\CourseClient\CourseClient\bin\Debug\CourseClient.exe
+C:\Users\Adm\source\repos\CourseClient\CourseClient\bin\Debug\CourseClient.pdb
+C:\Users\Adm\source\repos\CourseClient\CourseClient\obj\Debug\MainWindow.baml
+C:\Users\Adm\source\repos\CourseClient\CourseClient\obj\Debug\CourseClient.g.resources
+C:\Users\Adm\source\repos\CourseClient\CourseClient\obj\Debug\CourseClient.Properties.Resources.resources
+C:\Users\Adm\source\repos\CourseClient\CourseClient\obj\Debug\CourseClient.csproj.GenerateResource.Cache
+C:\Users\Adm\source\repos\CourseClient\CourseClient\obj\Debug\CourseClient.csproj.CoreCompileInputs.cache
+C:\Users\Adm\source\repos\CourseClient\CourseClient\obj\Debug\CourseClient.exe
+C:\Users\Adm\source\repos\CourseClient\CourseClient\obj\Debug\CourseClient.pdb

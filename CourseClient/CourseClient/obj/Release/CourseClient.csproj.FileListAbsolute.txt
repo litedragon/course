@@ -1,0 +1,15 @@
+C:\Users\Adm\source\repos\CourseClient\CourseClient\bin\Release\CourseClient.exe.config
+C:\Users\Adm\source\repos\CourseClient\CourseClient\bin\Release\CourseClient.exe
+C:\Users\Adm\source\repos\CourseClient\CourseClient\bin\Release\CourseClient.pdb
+C:\Users\Adm\source\repos\CourseClient\CourseClient\obj\Release\MainWindow.g.cs
+C:\Users\Adm\source\repos\CourseClient\CourseClient\obj\Release\App.g.cs
+C:\Users\Adm\source\repos\CourseClient\CourseClient\obj\Release\CourseClient_MarkupCompile.cache
+C:\Users\Adm\source\repos\CourseClient\CourseClient\obj\Release\CourseClient_MarkupCompile.lref
+C:\Users\Adm\source\repos\CourseClient\CourseClient\obj\Release\MainWindow.baml
+C:\Users\Adm\source\repos\CourseClient\CourseClient\obj\Release\CourseClient.g.resources
+C:\Users\Adm\source\repos\CourseClient\CourseClient\obj\Release\CourseClient.Properties.Resources.resources
+C:\Users\Adm\source\repos\CourseClient\CourseClient\obj\Release\CourseClient.csproj.GenerateResource.Cache
+C:\Users\Adm\source\repos\CourseClient\CourseClient\obj\Release\CourseClient.csproj.CoreCompileInputs.cache
+C:\Users\Adm\source\repos\CourseClient\CourseClient\obj\Release\CourseClient.exe
+C:\Users\Adm\source\repos\CourseClient\CourseClient\obj\Release\CourseClient.pdb
+C:\Users\Adm\source\repos\CourseClient\CourseClient\obj\Release\CourseClient.csprojResolveAssemblyReference.cache
